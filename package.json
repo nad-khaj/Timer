@@ -1,0 +1,15 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "two kind timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "timer"
+  },
+  "author": "Nadereh khajehpour",
+  "license": "MIT"
+}
